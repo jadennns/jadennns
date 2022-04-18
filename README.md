@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello There!
 
-<!--
-**jadennns/jadennns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am Jaden, I'm a 14 y.o boy who enjoys coding! I am currently using javascript and typescript, I plan to study python or maybe a "c" language!
 
-Here are some ideas to get you started:
+## If you want to see my projects, you can visit this website! 
+### https://jadennns.netlify.app/projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My utilities: 
+```
+🏃‍♀️ Next.JS
+📁 MongoDB
+🛌 NestJS
+```
+
+Contact ME! [jadennns@yahoo.com](mailto:jadennns@yahoo.com)
